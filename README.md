@@ -1,16 +1,21 @@
-### Hi there 👋
+### GitHub
 
-<!--
-**murapong/murapong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=murapong&count_private=true&show_icons=true" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### Twitter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Follow](https://img.shields.io/twitter/follow/murapong.svg?style=social)](https://twitter.com/murapong) 
+
+### Qiita
+
+<div>
+  <p>
+    <a href="http://qiita.com/murapong"><img src="https://qiita-badge.apiapi.app/s/murapong/posts.svg" alt="My Qiita posts"></a>
+    <a href="http://qiita.com/murapong"><img src="https://qiita-badge.apiapi.app/s/murapong/contributions.svg" alt="My Qiita contributions"></a>
+    <a href="http://qiita.com/murapong"><img src="https://qiita-badge.apiapi.app/s/murapong/followers.svg" alt="My Qiita followers"></a>
+  </p>
+</div>
