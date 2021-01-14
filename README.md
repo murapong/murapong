@@ -19,3 +19,7 @@
     <a href="http://qiita.com/murapong"><img src="https://qiita-badge.apiapi.app/s/murapong/followers.svg" alt="My Qiita followers"></a>
   </p>
 </div>
+
+### Blog
+
+http://murapong.hatenablog.com/
