@@ -8,7 +8,7 @@
 
 ### Twitter
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/murapong.svg?style=social)](https://twitter.com/murapong) 
+https://twitter.com/murapong
 
 ### Qiita
 
