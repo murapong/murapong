@@ -6,9 +6,9 @@
   </a>
 </div>
 
-### Twitter
+### X
 
-https://twitter.com/murapong
+https://x.com/murapong
 
 ### Qiita
 
